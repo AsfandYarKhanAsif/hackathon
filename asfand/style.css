@@ -1,0 +1,67 @@
+.headerinside{
+    font-size: small;
+    font-weight: bold;
+}
+.header1{
+    justify-content: space-between;
+    background-color: rgb(209, 209, 209);
+    height: 50px;
+    padding: 10px;
+}
+.header0{
+    background-color: white;
+}
+
+#ph{
+    color: grey;
+    font-weight: 500;
+}
+i{
+    border-radius: 50px;
+    background-color: white;
+    width: 20px;
+    text-align: center;
+}
+.headlist{
+    padding: 20px;
+    font-weight: 600;
+    color: black;
+}
+.headlistlast{
+    background-color: rgb(247, 60, 91);
+    
+    padding: 10px;
+    font-weight: 600;
+    color: black;
+    height: 70px;
+}
+.headlistlast a{
+    color: white;
+}
+.mid{
+    width: 300px;
+    margin-left: 10%;
+}
+.mid h1{
+    font-size: 60px;
+}
+#myappo{
+    color: rgb(255, 255, 255);
+    border: 6px solid  rgb(247, 60, 91) !important;
+    border-radius: 12px !important;
+    background-color: rgb(247, 60, 91);
+
+}
+#mynum{
+    color: rgb(255, 255, 255);
+    border: 6px solid #52c52f !important;
+    border-radius: 12px !important;
+    background-color: #52c52f;
+}
+
+.mid{
+    background-image:url(./assests/images/2.jpg);
+    width: 100%;
+    height:700px;
+    background-repeat: no-repeat;
+}
